@@ -61,14 +61,6 @@
 
 ---
 
-# 修复方式
-
-可以用我和AI写的工具自查
-
-[腾讯被投毒入侵检查工具.zip](https://blog.cqjszx.cn/usr/uploads/2026/11/4010887053.zip)
-
----
-
 参考链接：
 
 - https://zlb.ink/t/topic/52976
