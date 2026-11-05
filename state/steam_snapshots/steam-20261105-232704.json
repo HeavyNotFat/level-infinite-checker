@@ -1,0 +1,261 @@
+{
+  "version": 1,
+  "captured_at": "2026-11-05T23:27:04+08:00",
+  "client_version": "11.15.70.27",
+  "install_roots": [
+    {
+      "path": "d:\\steam",
+      "display_path": "d:\\steam",
+      "steam_exe": "d:\\steam\\steam.exe",
+      "exists": true,
+      "source": "registry:HKCU\\Software\\Valve\\Steam:SteamExe"
+    }
+  ],
+  "libraries": [
+    {
+      "path": "d:\\steam",
+      "display_path": "D:\\Steam",
+      "label": "",
+      "source": "d:\\steam\\steamapps\\libraryfolders.vdf"
+    },
+    {
+      "path": "e:\\steamlibrary",
+      "display_path": "E:\\SteamLibrary",
+      "label": "",
+      "source": "d:\\steam\\steamapps\\libraryfolders.vdf"
+    }
+  ],
+  "registry": [
+    {
+      "hive": "HKCU",
+      "key": "Software\\Classes\\steam\\Shell\\Open\\Command",
+      "name": "(default)",
+      "value": "\"D:\\Steam\\steam.exe\" -- \"%1\"",
+      "view": "default"
+    },
+    {
+      "hive": "HKCU",
+      "key": "Software\\Valve\\Steam",
+      "name": "AlreadyRetriedOfflineMode",
+      "value": "0",
+      "view": "default"
+    },
+    {
+      "hive": "HKCU",
+      "key": "Software\\Valve\\Steam",
+      "name": "CompletedOOBEStage1",
+      "value": "1",
+      "view": "default"
+    },
+    {
+      "hive": "HKCU",
+      "key": "Software\\Valve\\Steam",
+      "name": "Language",
+      "value": "schinese",
+      "view": "default"
+    },
+    {
+      "hive": "HKCU",
+      "key": "Software\\Valve\\Steam",
+      "name": "RememberPassword",
+      "value": "1",
+      "view": "default"
+    },
+    {
+      "hive": "HKCU",
+      "key": "Software\\Valve\\Steam",
+      "name": "Restart",
+      "value": "0",
+      "view": "default"
+    },
+    {
+      "hive": "HKCU",
+      "key": "Software\\Valve\\Steam",
+      "name": "SourceModInstallPath",
+      "value": "D:\\Steam\\steamapps\\sourcemods",
+      "view": "default"
+    },
+    {
+      "hive": "HKCU",
+      "key": "Software\\Valve\\Steam",
+      "name": "StartupModeTmpIsValid",
+      "value": "0",
+      "view": "default"
+    },
+    {
+      "hive": "HKCU",
+      "key": "Software\\Valve\\Steam",
+      "name": "SteamExe",
+      "value": "d:/steam/steam.exe",
+      "view": "default"
+    },
+    {
+      "hive": "HKCU",
+      "key": "Software\\Valve\\Steam",
+      "name": "SteamPath",
+      "value": "d:/steam",
+      "view": "default"
+    },
+    {
+      "hive": "HKCU",
+      "key": "Software\\Valve\\Steam",
+      "name": "SuppressAutoRun",
+      "value": "0",
+      "view": "default"
+    },
+    {
+      "hive": "HKLM",
+      "key": "SOFTWARE\\Classes\\steam\\Shell\\Open\\Command",
+      "name": "(default)",
+      "value": "\"D:\\Steam\\steam.exe\" -- \"%1\"",
+      "view": "32"
+    },
+    {
+      "hive": "HKLM",
+      "key": "SOFTWARE\\Classes\\steam\\Shell\\Open\\Command",
+      "name": "(default)",
+      "value": "\"D:\\Steam\\steam.exe\" -- \"%1\"",
+      "view": "64"
+    },
+    {
+      "hive": "HKLM",
+      "key": "SOFTWARE\\Valve\\Steam",
+      "name": "BetaName",
+      "value": "",
+      "view": "32"
+    },
+    {
+      "hive": "HKLM",
+      "key": "SOFTWARE\\Valve\\Steam",
+      "name": "BetaName",
+      "value": "",
+      "view": "64"
+    },
+    {
+      "hive": "HKLM",
+      "key": "SOFTWARE\\Valve\\Steam",
+      "name": "ClientLauncherType",
+      "value": "0",
+      "view": "32"
+    },
+    {
+      "hive": "HKLM",
+      "key": "SOFTWARE\\Valve\\Steam",
+      "name": "ClientLauncherType",
+      "value": "0",
+      "view": "64"
+    },
+    {
+      "hive": "HKLM",
+      "key": "SOFTWARE\\Valve\\Steam",
+      "name": "InstallPath",
+      "value": "D:\\Steam",
+      "view": "32"
+    },
+    {
+      "hive": "HKLM",
+      "key": "SOFTWARE\\Valve\\Steam",
+      "name": "InstallPath",
+      "value": "D:\\Steam",
+      "view": "64"
+    },
+    {
+      "hive": "HKLM",
+      "key": "SOFTWARE\\Valve\\Steam",
+      "name": "Language",
+      "value": "schinese",
+      "view": "32"
+    },
+    {
+      "hive": "HKLM",
+      "key": "SOFTWARE\\Valve\\Steam",
+      "name": "Universe",
+      "value": "Public",
+      "view": "32"
+    },
+    {
+      "hive": "HKLM",
+      "key": "SOFTWARE\\Valve\\Steam",
+      "name": "Universe",
+      "value": "Public",
+      "view": "64"
+    },
+    {
+      "hive": "HKLM",
+      "key": "SOFTWARE\\Valve\\Steam",
+      "name": "Version",
+      "value": "1792618285",
+      "view": "32"
+    },
+    {
+      "hive": "HKLM",
+      "key": "SOFTWARE\\Valve\\Steam",
+      "name": "Version",
+      "value": "1792618285",
+      "view": "64"
+    },
+    {
+      "hive": "HKLM",
+      "key": "SOFTWARE\\WOW6432Node\\Valve\\Steam",
+      "name": "BetaName",
+      "value": "",
+      "view": "64"
+    },
+    {
+      "hive": "HKLM",
+      "key": "SOFTWARE\\WOW6432Node\\Valve\\Steam",
+      "name": "ClientLauncherType",
+      "value": "0",
+      "view": "64"
+    },
+    {
+      "hive": "HKLM",
+      "key": "SOFTWARE\\WOW6432Node\\Valve\\Steam",
+      "name": "InstallPath",
+      "value": "D:\\Steam",
+      "view": "64"
+    },
+    {
+      "hive": "HKLM",
+      "key": "SOFTWARE\\WOW6432Node\\Valve\\Steam",
+      "name": "Language",
+      "value": "schinese",
+      "view": "64"
+    },
+    {
+      "hive": "HKLM",
+      "key": "SOFTWARE\\WOW6432Node\\Valve\\Steam",
+      "name": "Universe",
+      "value": "Public",
+      "view": "64"
+    },
+    {
+      "hive": "HKLM",
+      "key": "SOFTWARE\\WOW6432Node\\Valve\\Steam",
+      "name": "Version",
+      "value": "1792618285",
+      "view": "64"
+    }
+  ],
+  "processes": [
+    {
+      "path": "d:\\steam\\steam.exe",
+      "display_path": "D:\\Steam\\steam.exe"
+    }
+  ],
+  "key_hashes": {
+    "bin\\steamservice.exe": "219fc62d4ac64cdd27344f427c1cb685fb5db9c83c0e2e499b19b22af719db91",
+    "crashhandler.dll": "ef9edb675ddd1f11d74622c193d0cde30f494b0e38dfa5a5757f9821f6c98ecc",
+    "crashhandler64.dll": "71dac2711f6c23016e3fdd379e2fa2863303d2cdc26cf38249379eabfa1a96f1",
+    "gameoverlayrenderer.dll": "1afe9b93e0f36cbee628346e03ccae0c3f75567fdd2dd99c7b326b7f01eec841",
+    "gameoverlayrenderer64.dll": "05a62859e55a9f2a8cb987cbdc79a3303f23ad7c83b4be56f5494beaa993ed43",
+    "steam.exe": "f8a4ca44008c516eebecafaa4bc26772b2a6eb0fef8034bce56a3311e21ab705",
+    "steamclient.dll": "a9b8b9905889888787f9da18aa91550814cc36708129b3956af66e5dc037dc3f",
+    "steamclient64.dll": "253e0a11a4415b38c78a42f7bdd6ecc426455f06c1ba6453a48090df3142dbbc",
+    "steamui.dll": "cd9226db4e6c28942df70c22c0475d91fdd62cba5f100baae2d65af57cabb610",
+    "tier0_s.dll": "affcd9b94f5155b0fb3ecde614056559a8592935d2aa7b6eefc8772989b7cdb3",
+    "tier0_s64.dll": "8559e6bd32eb3fddd95079633272866deb292211ec4f7e69aeb0ec48fdafef72",
+    "vstdlib_s.dll": "8495e7c62a4ef4617d6abb990b4d987d266abf6d0b1d04d4290b36575d670c31",
+    "vstdlib_s64.dll": "f63f348bb18460b3046db5293a0646af593fc9a21e6a2b1743e7e5074722b564"
+  }
+}

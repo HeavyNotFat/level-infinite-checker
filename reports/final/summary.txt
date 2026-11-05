@@ -1,0 +1,16 @@
+Windows 只读排查完成
+总体级别：中 — 发现需要人工核对的异常
+发现：严重 0 / 高 0 / 中 2 / 低 2
+报告目录：D:\Downloads\VirusChecker\reports\final
+
+[中] 可疑程序调用路径：Animate.exe
+    D:\An2024\Adobe Animate 2024\Animate.exe
+[中] 可疑程序调用路径：Photoshop.exe
+    D:\Photoshop2024\Adobe Photoshop 2024\Photoshop.exe
+[低] PATH 中 System32 之前存在用户可写目录
+    C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps
+[低] PATH 包含空项、相对路径或当前目录
+[信息] hosts 文件包含 Steam 域名映射
+    C:\Windows\System32\drivers\etc\hosts
+
+注意：这是只读分诊，不能证明系统干净；公开 K2F 报告未把 C: 根目录乱码文件夹或 Steam 路径改动列为 IOC。
